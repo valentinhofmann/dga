@@ -7,6 +7,7 @@ embeddings capturing information about the compatibility of affixes and stems in
 
 # Dependencies
 
+The code requires `Python>=3.5`, `torch`, `torch_geometric`, `pickle`,  `numpy`, `pandas`, `scipy`, and `sklearn`.
 
 # Usage
 
