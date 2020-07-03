@@ -2,6 +2,8 @@
 
 This repository contains the code and data for the ACL paper [A Graph Auto-encoder Model of 
 Derivational Morphology](https://www.aclweb.org/anthology/2020.acl-main.106.pdf).
+The paper introduces the **Derivational Graph Auto-encoder (DGA)**, a model that learns 
+embeddings capturing information about the compatibility of affixes and stems in derivation.
 
 # Dependencies
 
