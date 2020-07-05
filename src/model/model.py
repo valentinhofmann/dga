@@ -47,7 +47,10 @@ class Decoder(nn.Module):
 
 
 class GAE(nn.Module):
-
+    """
+    This implementation of a graph auto-encoder is based on code from
+    https://github.com/rusty1s/pytorch_geometric/blob/master/examples/autoencoder.py
+    """
     def __init__(self, encoder, decoder):
         super(GAE, self).__init__()
         self.encoder = encoder
