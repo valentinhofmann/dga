@@ -12,9 +12,7 @@ The code requires `Python>=3.5`, `torch`, `torch_geometric`, `pickle`,  `numpy`,
 
 ## Data
 
-You can find the Derivational Graphs (DGs) for the nine subreddits in `data/graphs`.
-
-The derivational embeddings trained on the DGs are located in `src/model/embeddings`.
+You can find the Derivational Graphs (DGs) for the nine subreddits in `data/graphs`. The derivational embeddings trained on the DGs are located in `src/model/embeddings`.
 
 ## Experiments
 
