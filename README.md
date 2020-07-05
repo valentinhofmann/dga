@@ -10,17 +10,17 @@ embeddings capturing information about the compatibility of affixes and stems in
 The code requires `Python>=3.5`, `torch`, `torch_geometric`, `pickle`,  `numpy`, `pandas`, `scipy`, and `sklearn`.
 
 
-# Data
+## Data
 
 You can find the Derivational Graphs (DGs) for the nine subreddits in `data/graphs`.
 
 The derivational embeddings trained on the DGs are located in `src/model/embeddings`.
 
-# Experiments
+## Experiments
 
 To replicate the experiments from the paper, run `run_models.sh` in `src/model`.
 
-# Citation
+## Citation
 
 If you use the code or data in this repository, please cite the following paper:
 
