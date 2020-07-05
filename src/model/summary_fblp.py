@@ -2,7 +2,7 @@ import numpy as np
 
 sr_list = ['CFB', 'nba', 'nfl', 'gaming', 'leagueoflegends', 'movies', 'politics', 'science', 'technology']
 
-with open ('summary_fblp.txt', 'w') as outfile:
+with open('results/summary_fblp.txt', 'w') as outfile:
     ap_list = [[] for i in range(3)]
     auc_list = [[] for i in range(3)]
     for sr in sr_list:
