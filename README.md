@@ -29,5 +29,4 @@ If you use the code or data in this repository, please cite the following paper:
     booktitle = {Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics},
     year = {2020}
 }
-
 ```
